@@ -123,8 +123,8 @@ const INVALID_PROPS = [
     "loading",
     "leftIcon",
     "minimal",
-    "onRemove", // ITagProps, ITagInputProps
-    "outlined", // IButtonProps
+    "onChildrenMount",
+    "onRemove",
     "panel", // ITabProps
     "panelClassName", // ITabProps
     "popoverProps",
